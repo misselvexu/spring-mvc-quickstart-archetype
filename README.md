@@ -1,4 +1,4 @@
-Spring MVC Quickstart Maven Archetype
+Extenstion ON `Spring MVC Quickstart Maven Archetype`
 ======================================
 
 Summary
